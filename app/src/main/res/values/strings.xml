@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Currencies</string>
+    <string name="nothing_found">Nothing found</string>
+    <string name="something_went_wrong">SWR</string>
+</resources>
